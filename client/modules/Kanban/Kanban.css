@@ -1,0 +1,23 @@
+.appDiv {
+  text-align: center;
+}
+
+.AddLane {
+  font-size: 22px;
+  border: none;
+  outline: none;
+  margin-bottom: 20px;
+  transition: .3s;
+  border-radius: 15px;
+  font-weight: bold;
+  padding: 10px 15px;
+  color: white;
+  background-color: grey;
+
+}
+
+.AddLane:hover {
+  background-color: lightgrey;
+  cursor: pointer;
+  color: grey;
+}
